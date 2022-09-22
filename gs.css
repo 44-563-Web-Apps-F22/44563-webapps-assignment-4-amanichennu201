@@ -22,6 +22,15 @@
     font-size:smaller;
     color:black;
 }
+
+.name:hover
+{
+    background-color:brown;
+    text-shadow: 1px 1px 2px blue,0 0 25px rgb(245, 245, 248),0 0 5px rgb(245, 245, 248);
+    box-shadow: 10px 5px 5px rgb(237, 91,206);
+    
+}
+
 .direction:hover
 {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
